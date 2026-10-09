@@ -49,7 +49,7 @@ your OwlCAD account. How that data is handled is described in the
 
 ## Support
 
-[owlcad.com/support](https://owlcad.com/support) · contact@owlcad.com
+[owlcad.com/contact](https://owlcad.com/contact) · contact@owlcad.com
 
 ## License
 
