@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "owlcad": {
+      "type": "http",
+      "url": "https://mcp.owlcad.com/"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "owlcad",
+  "displayName": "OwlCAD",
+  "version": "1.0.0",
+  "description": "Parametric 3D CAD for 3D printing. Build millimeter-dimensioned parts, check that they print, and export STL, 3MF or STEP.",
+  "author": {
+    "name": "Spare Matter Corp",
+    "email": "contact@owlcad.com"
+  },
+  "homepage": "https://owlcad.com/mcp-server",
+  "repository": "https://github.com/Spare-Matter/owlcad-plugin",
+  "license": "MIT",
+  "logo": "logo.png",
+  "keywords": [
+    "cad",
+    "3d-printing",
+    "parametric"
+  ],
+  "mcpServers": "./mcp.json"
+}

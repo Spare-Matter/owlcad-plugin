@@ -1,0 +1,11 @@
+{
+  "name": "owlcad",
+  "version": "1.0.0",
+  "description": "Parametric 3D CAD for 3D printing: build parts, check they print, export STL, 3MF or STEP.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "owlcad": {
+      "httpUrl": "https://mcp.owlcad.com/"
+    }
+  }
+}
